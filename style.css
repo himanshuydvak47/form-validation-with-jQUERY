@@ -1,0 +1,8 @@
+.error {color: red; 
+    font-size: 0.9em; }
+input { margin: 5px 0;
+    padding: 8px;
+    width: 100%; }
+button{background-color: aquamarine;
+    border-width: 0.5px;
+    border-color: rgb(71, 184, 75);}
